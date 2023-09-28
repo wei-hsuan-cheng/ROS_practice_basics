@@ -1,0 +1,4 @@
+<launch>
+    <param name="/print_frq" type="double" value="2.0" />
+    <node name="talker" pkg="try_09192023" type="talker.py" />
+</launch>
